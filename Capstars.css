@@ -334,7 +334,7 @@ li.logo {
 }
 
 .hero_image{
-    background-image:linear-gradient(rgba(0,0,0,00.4), rgba(0, 0, 0, 0.4)), url(images/capMan.jpg);
+    background-image:linear-gradient(rgba(0,0,0,00.4), rgba(0, 0, 0, 0.4)), url(images/capman.jpg);
     height: 500px;
     background-position: center;
     background-repeat: no-repeat;
